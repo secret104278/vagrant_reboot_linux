@@ -1,5 +1,7 @@
 # vagrant_reboot_linux
-Vagrant Plugin that implement Reboot guest capability to Linux.
+![Gem](https://img.shields.io/gem/dtv/vagrant_reboot_linux.svg?style=for-the-badge)
+
+Vagrant Plugin that implement Reboot guest capability for Linux.
 https://www.vagrantup.com/docs/provisioning/shell.html#reboot
 
 # Installation
